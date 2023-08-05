@@ -11,7 +11,13 @@ Ich möchte Funktionen wie `/gamemode 1` gerne mit einem Knopfdruck erledigen!
 
 # 3D-Design
 
+Es gibt eine Vorlage in TinkerCAD:
 
+[Tinkercad Vorlage](https://www.tinkercad.com/things/9xmwdutPWXx)
+
+Passende Schalter zum Beispiel:
+
+[Taster bei Amazon](https://www.amazon.de/gp/product/B0BF51N8CK/?&_encoding=UTF8&tag=kidslab0e-21&linkCode=ur2&linkId=8c899cd49aa06d1d18715d5156132356&camp=1638&creative=6742)
 
 ## Melone
 
